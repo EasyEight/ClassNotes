@@ -1,10 +1,11 @@
-Welcome to PiThon
+Class0: Welcome to PiThon
 
 Course site: https://github.com/MastermanPithon2
+Last year's course site: https://github.com/MastermanPiThon
 
 Learning Python:
 http://www.codecademy.com/en/tracks/python
 
 Homework:
-Create a Github account.
-Do first lesson at codecademy (Python Syntax)
+ - Create a Github account.
+ - Do first lesson at codecademy (Python Syntax)
