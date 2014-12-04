@@ -1,0 +1,10 @@
+Welcome to PiThon
+
+Course site: https://github.com/MastermanPithon2
+
+Learning Python:
+http://www.codecademy.com/en/tracks/python
+
+Homework:
+Create a Github account.
+Do first lesson at codecademy (Python Syntax)
