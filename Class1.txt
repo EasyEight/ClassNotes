@@ -1,0 +1,29 @@
+Class1: Hello Raspberry Pi
+Course site: https://github.com/MastermanPithon2
+
+Demo: ultrasonic sensor and Raspberry Pi
+
+Learning Python: Basic intro
+
+Python Workspace: http://labs.codecademy.com/#:workspace
+
+
+Homework:
+ - Do third lesson on codecademy (Strings & Console Output)
+ - Start thinking about a project you would like to do for this class.  For some idea of the resources available see the list of components below and google them for more info.
+
+Expansion boards:
+PiFace
+GertDuino
+GertBoard
+Arduipi
+chipKIT Pi
+BrickPi
+LinkerKit for Raspberry Pi
+Linker kit base shield for raspberry pi with arc interface
+i-Racer
+
+Python library:
+pygame
+
+  
