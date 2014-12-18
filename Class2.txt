@@ -1,0 +1,21 @@
+Class2: Loops, Conditionals and Pygame
+Course site: https://github.com/MastermanPithon2
+
+Demo: PiPong
+
+Learning Python: Loops and Conditionals
+
+Python Workspace: http://labs.codecademy.com/#:workspace
+
+Homework:
+ - Do ‘Conditionals & Control Flow’ on Codecademy
+ - Come up with a project you would like to do for this class and be prepared to describe it to the class.
+
+Python Notes:
+Input from the user: raw_input
+Conditionals: if:/elif:/else:
+For Loop: for x in range (0, 5): #xrange
+While Loop: while x < 5:
+
+List: myList = [“Apple”, “Banana”, 42]
+Dictionary: myDict = {“Answer”: 42, “ElevenTimesEight”: 88}
