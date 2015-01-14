@@ -1,0 +1,31 @@
+We are going to get the pygame demo using git.  So first we’re going to start with some info on git.
+
+
+What is Github?
+ - Github is a web based version of git a distributed version control system.
+ - A version control system saves each ‘revision’ of a file like saving in a game.
+ - In a distributed version control system every revision of every file is 
+   stored in copy of the repository
+ - Represented as a folder on your computer
+ - If you use a version control system you can always go back if you make a mistake.
+ - One weakness of version control systems are large files.  So avoid putting large images 
+   or pdf or other ‘binary’ files on github.
+
+Signing up to Github
+Go to github.com and sign up.
+Once you have signed up give me your user name so I can add you to the MastermanPithon2 team.
+
+
+How To Clone a repository using Git
+
+What!!? ‘cloning’ downloads a copy of the repository onto your computer.
+
+In the terminal:
+1. Go to the MastermanPithon directory: ‘cd MastermanPithon’
+2. clone the HowTo repository: ‘git clone https://github.com/MastermanPithon2/HowTo.git'
+3. Wait until complete
+4. Enter HowTo folder/repository: ‘cd HowTo’
+5. look at contents of repository: ‘ls’
+6. Go to the PyGame directory: ‘cd PyGame’
+
+
